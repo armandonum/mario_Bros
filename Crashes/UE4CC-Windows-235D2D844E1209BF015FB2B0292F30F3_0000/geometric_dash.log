@@ -1,0 +1,1744 @@
+﻿Log file open, 01/28/23 23:26:23
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: geometric_dash
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.312009
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Engine.ini]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Engine.ini]
+[2023.01.29-03.26.24:831][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Engine.ini]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Engine.ini]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.01.29-03.26.24:831][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.01.29-03.26.24:832][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.01.29-03.26.24:832][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.01.29-03.26.24:832][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.01.29-03.26.24:832][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.01.29-03.26.24:832][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.01.29-03.26.24:832][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.01.29-03.26.24:832][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.01.29-03.26.24:832][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.01.29-03.26.24:832][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Engine.ini]
+[2023.01.29-03.26.24:832][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Engine.ini]
+[2023.01.29-03.26.24:851][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.01.29-03.26.24:852][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.29-03.26.24:853][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.01.29-03.26.24:854][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.01.29-03.26.24:854][  0]LogInit: Selected Device Profile: [Windows]
+[2023.01.29-03.26.24:854][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.01.29-03.26.24:854][  0]LogHAL: Display: Platform has ~ 12 GB [12764549120 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.29-03.26.24:855][  0]LogInit: Going up to parent DeviceProfile []
+[2023.01.29-03.26.24:855][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.01.29-03.26.24:855][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:855][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.01.29-03.26.24:856][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.29-03.26.24:857][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.29-03.26.24:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.01.29-03.26.24:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.29-03.26.24:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.01.29-03.26.24:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.29-03.26.24:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.29-03.26.24:858][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.29-03.26.24:858][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:858][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.01.29-03.26.24:858][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.01.29-03.26.24:858][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Scalability.ini]
+[2023.01.29-03.26.24:858][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.01.29-03.26.24:858][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.01.29-03.26.24:858][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.01.29-03.26.24:858][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.29-03.26.24:858][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.01.29-03.26.24:858][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.01.29-03.26.24:858][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.01.29-03.26.24:858][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Engine.ini]
+[2023.01.29-03.26.24:858][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Config/Windows/Editor.ini]
+[2023.01.29-03.26.24:859][  0]LogInit: Computer: DESKTOP-4L8GVEH
+[2023.01.29-03.26.24:859][  0]LogInit: User: Armando
+[2023.01.29-03.26.24:859][  0]LogInit: CPU Page size=4096, Cores=2
+[2023.01.29-03.26.24:859][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.29-03.26.24:859][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2023.01.29-03.26.24:859][  0]LogMemory: Platform Memory Stats for Windows
+[2023.01.29-03.26.24:859][  0]LogMemory: Process Physical Memory: 128.59 MB used, 128.59 MB peak
+[2023.01.29-03.26.24:859][  0]LogMemory: Process Virtual Memory: 111.32 MB used, 111.32 MB peak
+[2023.01.29-03.26.24:859][  0]LogMemory: Physical Memory: 6675.78 MB used,  5497.45 MB free, 12173.22 MB total
+[2023.01.29-03.26.24:859][  0]LogMemory: Virtual Memory: 134202880.00 MB used,  14844.51 MB free, 134217728.00 MB total
+[2023.01.29-03.26.24:867][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.29-03.26.24:900][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.01.29-03.26.24:902][  0]LogInit: Using OS detected language (es-ES).
+[2023.01.29-03.26.24:902][  0]LogInit: Using OS detected locale (es-ES).
+[2023.01.29-03.26.24:905][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2023.01.29-03.26.24:978][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.29-03.26.24:988][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.29-03.26.25:007][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.29-03.26.25:007][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.29-03.26.25:274][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.01.29-03.26.25:274][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.01.29-03.26.25:274][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.01.29-03.26.25:274][  0]LogD3D11RHI: D3D11 adapters:
+[2023.01.29-03.26.25:718][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2023.01.29-03.26.25:719][  0]LogD3D11RHI:       128/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2023.01.29-03.26.25:721][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.01.29-03.26.25:721][  0]LogD3D11RHI:       0/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.01.29-03.26.26:043][  0]LogD3D11RHI:    2. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2023.01.29-03.26.26:043][  0]LogD3D11RHI:       128/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.01.29-03.26.26:043][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.01.29-03.26.26:050][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.01.29-03.26.26:051][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.29-03.26.26:051][  0]LogWindows: EnumDisplayDevices:
+[2023.01.29-03.26.26:051][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2023.01.29-03.26.26:051][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:1)
+[2023.01.29-03.26.26:052][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2023.01.29-03.26.26:052][  0]LogWindows:    3. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:052][  0]LogWindows:    4. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:053][  0]LogWindows:    5. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:053][  0]LogWindows:    6. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:053][  0]LogWindows:    7. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:054][  0]LogWindows:    8. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:054][  0]LogWindows:    9. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:054][  0]LogWindows:    10. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:055][  0]LogWindows:    11. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:055][  0]LogWindows:    12. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:056][  0]LogWindows:    13. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:056][  0]LogWindows:    14. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:056][  0]LogWindows:    15. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:057][  0]LogWindows:    16. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:057][  0]LogWindows:    17. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:057][  0]LogWindows:    18. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.01.29-03.26.26:057][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:3 
+[2023.01.29-03.26.26:058][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2023.01.29-03.26.26:058][  0]LogD3D11RHI:   Driver Version: 31.0.101.2111 (internal:31.0.101.2111, unified:31.0.101.2111)
+[2023.01.29-03.26.26:058][  0]LogD3D11RHI:      Driver Date: 7-19-2022
+[2023.01.29-03.26.26:058][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2023.01.29-03.26.26:379][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2023.01.29-03.26.26:425][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2023.01.29-03.26.26:425][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2023.01.29-03.26.26:425][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2023.01.29-03.26.26:425][  0]LogD3D11RHI: Async texture creation enabled
+[2023.01.29-03.26.26:425][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.01.29-03.26.26:439][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2023.01.29-03.26.26:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.01.29-03.26.26:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.29-03.26.26:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.29-03.26.26:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.29-03.26.26:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.29-03.26.26:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.29-03.26.26:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.29-03.26.26:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.29-03.26.26:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.29-03.26.26:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.29-03.26.26:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.29-03.26.26:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.29-03.26.26:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.29-03.26.27:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.29-03.26.27:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.01.29-03.26.27:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.29-03.26.27:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.29-03.26.27:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.01.29-03.26.27:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.01.29-03.26.27:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.01.29-03.26.27:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.01.29-03.26.27:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.01.29-03.26.27:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.01.29-03.26.27:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.01.29-03.26.27:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.01.29-03.26.27:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.01.29-03.26.27:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.29-03.26.27:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.29-03.26.27:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.01.29-03.26.27:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.29-03.26.27:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.29-03.26.27:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.29-03.26.27:197][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.01.29-03.26.27:204][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.29-03.26.27:284][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.29-03.26.27:284][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Intermediate/Shaders/WorkingDirectory/2284/).
+[2023.01.29-03.26.27:284][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Armando/AppData/Local/Temp/UnrealShaderWorkingDir/B2ACA36F43E33A6877451B98AE410FDD/'.
+[2023.01.29-03.26.27:284][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.01.29-03.26.27:284][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.01.29-03.26.28:349][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.01.29-03.26.28:415][  0]LogDerivedDataCache: Loaded boot cache 0.07s 85MB C:/Users/Armando/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2023.01.29-03.26.28:415][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Armando/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2023.01.29-03.26.28:416][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.29-03.26.28:416][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.01.29-03.26.28:416][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.29-03.26.28:416][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.01.29-03.26.28:429][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.01.29-03.26.28:430][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.29-03.26.28:430][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.01.29-03.26.28:507][  0]LogDerivedDataCache: Speed tests for C:/Users/Armando/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.08 seconds
+[2023.01.29-03.26.28:507][  0]LogDerivedDataCache: Display: Performance to C:/Users/Armando/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1242.57MBs, RandomWriteSpeed=12.20MBs. Assigned SpeedClass 'Local'
+[2023.01.29-03.26.28:509][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Armando/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.29-03.26.28:510][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.29-03.26.28:510][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.01.29-03.26.28:579][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.29-03.26.28:579][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.29-03.26.28:618][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2023.01.29-03.26.28:984][  0]LogInit: Selected Device Profile: [Windows]
+[2023.01.29-03.26.28:984][  0]LogInit: Active device profile: [0000025D06A19D00][0000025D0627E8C0 49] Windows
+[2023.01.29-03.26.28:984][  0]LogInit: Profiles: [0000025D06A19D00][0000025D0627E8C0 49] Windows, [0000025D069EA500][0000025D06286A40 49] WindowsNoEditor, [0000025D06A18D00][0000025D0628ABC0 49] WindowsServer, [0000025D069EB100][0000025D0628ED40 49] WindowsClient, [0000025D06A1AA00][0000025D06292EC0 49] IOS, [0000025D069EBF00][0000025D062B7040 49] iPadAir, [0000025D06A1AD00][0000025D062BB1C0 49] iPadAir2, [0000025D06997000][0000025D062C3480 49] IPadPro, [0000025D06997100][0000025D062BF4C0 49] iPadAir3, [0000025D06A19500][0000025D7A1BF640 49] iPadAir4, [0000025D06996800][0000025D06283780 49] iPadMini2, [0000025D06A1B200][0000025D7A1C38C0 49] iPadMini3, [0000025D06995600][0000025D7A1C7A00 49] iPadMini4, [0000025D06A19200][0000025D7A1CFB80 49] iPadMini5, [0000025D069B6900][0000025D7A1D6180 49] iPhone6, [0000025D069B6A00][0000025D7A1D21C0 49] iPodTouch6, [0000025D06997600][0000025D7A1DE480 49] iPhone7, [0000025D06997700][0000025D7A1DA4C0 49] iPodTouch7, [0000025D069B6700][0000025D7A1E2640 49] iPhone5S, [0000025D06994100][0000025D7A1E67C0 49] iPhone6Plus, [0000025D069B5400][0000025D062F2940 49] iPhone6S, [0000025D06994700][0000025D062F6AC0 49] iPhone6SPlus, [0000025D069B4200][0000025D062FAC40 49] iPhone7Plus, [0000025D06996600][0000025D062FEDC0 49] iPhoneSE, [0000025D069B7000][0000025D06302F40 49] iPhone8, [0000025D06997F00][0000025D063070C0 49] iPhone8Plus, [0000025D069B5C00][0000025D0630B240 49] iPhoneX, [0000025D06996200][0000025D0630F3C0 49] iPhoneXS, [0000025D069B4300][0000025D06313540 49] iPhoneXSMax, [0000025D06997C00][0000025D063176C0 49] iPhoneXR, [0000025D069B7E00][0000025D7A1CB800 49] iPhone11, [0000025D06996000][0000025D0631B940 49] iPhone11Pro, [0000025D069B7500][0000025D0631FA80 49] iPhone11ProMax, [0000025D06996C00][0000025D06327C00 49] iPhoneSE2, [0000025D069B6C00][0000025D0632A0C0 49] iPhone12Mini, [0000025D06994B00][0000025D0632E240 49] iPhone12, [0000025D069B6200][0000025D063323C0 49] iPhone12Pro, [0000025D06997400][0000025D06336540 49] iPhone12ProMax, [0000025D069B7100][0000025D0633A6C0 49] iPadPro105, [0000025D06997D00][0000025D0633E840 49] iPadPro129, [0000025D069E9700][0000025D063429C0 49] iPadPro97, [0000025D069B7400][0000025D06346B40 49] iPadPro2_129, [0000025D069E9F00][0000025D0634ACC0 49] iPad5, [0000025D069B6100][0000025D0634EE40 49] iPad6, [0000025D069E9800][0000025D06352FC0 49] iPad7, [0000025D069B6600][0000025D06357140 49] iPad8, [0000025D069E8100][0000025D0635B2C0 49] iPadPro11, [0000025D069B5D00][0000025D0635F440 49] iPadPro2_11, [0000025D069EA000][0000025D063635C0 49] iPadPro3_129, [0000025D069B6D00][0000025D06367740 49] iPadPro4_129, [0000025D069EA300][0000025D06323880 49] AppleTV, [0000025D06995700][0000025D0636B9C0 49] AppleTV4K, [0000025D069EBA00][0000025D0636FB00 49] TVOS, [0000025D06995900][0000025D06373C40 49] Mac, [0000025D069EAD00][0000025D0637A100 49] MacClient, [0000025D06995A00][0000025D0637E280 49] MacNoEditor, [0000025D069E8200][0000025D06382400 49] MacServer, [0000025D06996700][0000025D06386580 49] Linux, [0000025D069E8800][0000025D0638A700 49] LinuxAArch64, [0000025D06994C00][0000025D0638E880 49] LinuxNoEditor, [0000025D069E9D00][0000025D06392A00 49] LinuxAArch64NoEditor, [0000025D06994800][0000025D06396B80 49] LinuxClient, [0000025D069EAF00][0000025D0639AD00 49] LinuxAArch64Client, [0000025D06994F00][0000025D0639EE80 49] LinuxServer, [0000025D069E8F00][0000025D063A3000 49] LinuxAArch64Server, [0000025D06996A00][0000025D063A7180 49] Android, [0000025D069E9900][0000025D063AB300 49] Android_Low, [0000025D06997A00][0000025D063AF480 49] Android_Mid, [0000025D069EB900][0000025D063B3600 49] Android_High, [0000025D06996400][0000025D063B7780 49] Android_Default, [0000025D069E8A00][0000025D063778C0 49] Android_Adreno4xx, [0000025D06994A00][0000025D063BBA00 49] Android_Adreno5xx_Low, [0000025D069EBC00][0000025D063BFB40 49] Android_Adreno5xx, [0000025D06995D00][0000025D063C3C80 49] Android_Adreno6xx, [0000025D069EA800][0000025D063CA140 49] Android_Adreno6xx_Vulkan, [0000025D06994D00][0000025D063CE2C0 49] Android_Mali_T6xx, [0000025D069E8700][0000025D063D2440 49] Android_Mali_T7xx, [0000025D06995000][0000025D063D65C0 49] Android_Mali_T8xx, [0000025D069E9100][0000025D063DA740 49] Android_Mali_G71, [0000025D06995E00][0000025D063DE8C0 49] Android_Mali_G72, [0000025D069EBE00][0000025D063E2A40 49] Android_Mali_G72_Vulkan, [0000025D06995200][0000025D063E6BC0 49] Android_Mali_G76, [0000025D069EAE00][0000025D063EAD40 49] Android_Mali_G76_Vulkan, [0000025D06995800][0000025D063EEEC0 49] Android_Mali_G77, [0000025D069E9400][0000025D063F3040 49] Android_Mali_G77_Vulkan, [0000025D06997B00][0000025D063F71C0 49] Android_Vulkan_SM5, [0000025D069EAB00][0000025D063FB340 49] Android_PowerVR_G6xxx, [0000025D06997900][0000025D063FF4C0 49] Android_PowerVR_GT7xxx, [0000025D069EA600][0000025D06403640 49] Android_PowerVR_GE8xxx, [0000025D06995100][0000025D064077C0 49] Android_PowerVR_GM9xxx, [0000025D069EB600][0000025D0640B940 49] Android_PowerVR_GM9xxx_Vulkan, [0000025D06996300][0000025D063C7A80 49] Android_TegraK1, [0000025D069EA900][0000025D0640FBC0 49] Android_Unknown_Vulkan, [0000025D06997800][0000025D06413D00 49] Lumin, [0000025D06A1B000][0000025D0641A1C0 49] Lumin_Desktop, [0000025D069B4800][0000025D08430340 49] HoloLens, 
+[2023.01.29-03.26.29:109][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.29-03.26.29:109][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.29-03.26.29:109][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.29-03.26.29:109][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.29-03.26.29:109][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.29-03.26.29:130][  0]LogNetVersion: geometric_dash 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1317228298)
+[2023.01.29-03.26.29:707][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.01.29-03.26.29:855][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.148056 seconds
+[2023.01.29-03.26.29:862][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2023.01.29-03.26.29:862][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2023.01.29-03.26.29:862][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.29-03.26.30:412][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.29-03.26.30:418][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.29-03.26.32:024][  0]SourceControl: El control de código fuente está desactivado
+[2023.01.29-03.26.32:024][  0]SourceControl: El control de código fuente está desactivado
+[2023.01.29-03.26.32:029][  0]SourceControl: El control de código fuente está desactivado
+[2023.01.29-03.26.32:033][  0]SourceControl: El control de código fuente está desactivado
+[2023.01.29-03.26.32:043][  0]SourceControl: El control de código fuente está desactivado
+[2023.01.29-03.26.32:052][  0]LogUProjectInfo: Found projects:
+[2023.01.29-03.26.32:274][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.29-03.26.32:298][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.29-03.26.32:298][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.29-03.26.32:364][  0]LogCollectionManager: Loaded 0 collections in 0.002035 seconds
+[2023.01.29-03.26.32:387][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Collections/' took 0.00s
+[2023.01.29-03.26.32:387][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/Developers/Armando/Collections/' took 0.00s
+[2023.01.29-03.26.32:387][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/Collections/' took 0.00s
+[2023.01.29-03.26.32:387][  0]LogOcInput: OculusInput pre-init called
+[2023.01.29-03.26.32:398][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2023.01.29-03.26.32:399][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2023.01.29-03.26.32:461][  0]LogEngine: Initializing Engine...
+[2023.01.29-03.26.32:462][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.01.29-03.26.32:462][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.01.29-03.26.32:463][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.29-03.26.32:611][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.29-03.26.32:624][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.29-03.26.32:647][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.29-03.26.32:654][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.29-03.26.32:654][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.29-03.26.32:654][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.29-03.26.32:654][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.29-03.26.32:654][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.29-03.26.32:654][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.29-03.26.32:654][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.29-03.26.32:654][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.29-03.26.32:654][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.29-03.26.32:654][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.29-03.26.32:655][  0]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.29-03.26.32:655][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.29-03.26.32:671][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.29-03.26.32:671][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.01.29-03.26.32:728][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2023.01.29-03.26.32:738][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.29-03.26.32:741][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.29-03.26.32:741][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.29-03.26.32:743][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.29-03.26.32:743][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.29-03.26.32:743][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.29-03.26.32:744][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.29-03.26.32:744][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.29-03.26.32:744][  0]LogInit: FAudioDevice initialized.
+[2023.01.29-03.26.32:744][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.29-03.26.32:744][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.29-03.26.33:226][  0]LogDerivedDataCache: Saved boot cache 0.48s 85MB C:/Users/Armando/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2023.01.29-03.26.33:232][  0]LogInit: Texture streaming: Enabled
+[2023.01.29-03.26.33:262][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2023.01.29-03.26.33:267][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.29-03.26.33:267][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.01.29-03.26.33:269][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.01.29-03.26.33:305][  0]LogInit: Transaction tracking system initialized
+[2023.01.29-03.26.33:326][  0]BlueprintLog: New page: Cargar el editor
+[2023.01.29-03.26.33:531][  0]LocalizationService: Localization service is disabled
+[2023.01.29-03.26.33:627][  0]TimingProfiler: Initialize
+[2023.01.29-03.26.33:627][  0]TimingProfiler: OnSessionChanged
+[2023.01.29-03.26.33:627][  0]LoadingProfiler: Initialize
+[2023.01.29-03.26.33:628][  0]LoadingProfiler: OnSessionChanged
+[2023.01.29-03.26.33:628][  0]NetworkingProfiler: Initialize
+[2023.01.29-03.26.33:628][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.29-03.26.33:628][  0]MemoryProfiler: Initialize
+[2023.01.29-03.26.33:628][  0]MemoryProfiler: OnSessionChanged
+[2023.01.29-03.26.33:800][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.01.29-03.26.33:800][  0]LogCook: Display: Mobile HDR setting 1
+[2023.01.29-03.26.34:019][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/' took 0.01s
+[2023.01.29-03.26.34:349][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.29-03.26.34:353][  0]SourceControl: El control de código fuente está desactivado
+[2023.01.29-03.26.34:353][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.801
+[2023.01.29-03.26.34:353][  0]Cmd: MAP LOAD FILE="../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/mapas/mapas_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.29-03.26.34:435][  0]LightingResults: New page: Diseñar la iluminación
+[2023.01.29-03.26.34:439][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.29-03.26.34:440][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-03.26.34:441][  0]MapCheck: New page: Revisión del mapa
+[2023.01.29-03.26.34:441][  0]LightingResults: New page: Diseñar la iluminación
+[2023.01.29-03.26.34:471][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.01.29-03.26.34:612][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'mapas_1'.
+[2023.01.29-03.26.34:613][  0]LogAIModule: Creating AISystem for world mapas_1
+[2023.01.29-03.26.34:617][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.29-03.26.34:626][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.01.29-03.26.34:626][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.29-03.26.34:626][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,146ms to complete.
+[2023.01.29-03.26.34:626][  0]LogFileHelpers: Loading map 'mapas_1' took 0.273
+[2023.01.29-03.26.34:629][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.077
+[2023.01.29-03.26.35:092][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-03.26.35:100][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-03.26.35:109][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-03.26.35:118][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-03.26.35:223][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0154 seconds. Added 3606 classes and 861 folders.
+[2023.01.29-03.26.35:285][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.01.29-03.26.35:364][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.01.29-03.26.35:364][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:364][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.29-03.26.35:364][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2023.01.29-03.26.35:421][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.01.29-03.26.35:421][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:421][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.01.29-03.26.35:422][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2023.01.29-03.26.35:448][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.01.29-03.26.35:448][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.01.29-03.26.35:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.01.29-03.26.35:473][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.29-03.26.35:473][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:473][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.29-03.26.35:473][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.01.29-03.26.35:488][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.01.29-03.26.35:488][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:488][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.01.29-03.26.35:488][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.01.29-03.26.35:514][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.01.29-03.26.35:515][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:515][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.01.29-03.26.35:515][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.01.29-03.26.35:533][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.01.29-03.26.35:533][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:533][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.01.29-03.26.35:533][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2023.01.29-03.26.35:556][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.01.29-03.26.35:556][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:556][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.01.29-03.26.35:556][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.01.29-03.26.35:592][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.01.29-03.26.35:592][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:592][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.01.29-03.26.35:592][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.01.29-03.26.35:614][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.01.29-03.26.35:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.01.29-03.26.35:614][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2023.01.29-03.26.35:682][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.01.29-03.26.35:682][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:682][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.01.29-03.26.35:682][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.01.29-03.26.35:719][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.01.29-03.26.35:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.01.29-03.26.35:719][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2023.01.29-03.26.35:746][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.29-03.26.35:746][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:746][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.29-03.26.35:746][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2023.01.29-03.26.35:772][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.01.29-03.26.35:772][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:772][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.01.29-03.26.35:772][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2023.01.29-03.26.35:792][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.01.29-03.26.35:792][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:792][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.01.29-03.26.35:792][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2023.01.29-03.26.35:819][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.01.29-03.26.35:819][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:819][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.29-03.26.35:819][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2023.01.29-03.26.35:836][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.01.29-03.26.35:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.01.29-03.26.35:836][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2023.01.29-03.26.35:872][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.01.29-03.26.35:872][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:872][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.01.29-03.26.35:872][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2023.01.29-03.26.35:952][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.29-03.26.35:952][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.35:952][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.29-03.26.35:952][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2023.01.29-03.26.36:061][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.29-03.26.36:061][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.36:061][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.29-03.26.36:061][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2023.01.29-03.26.36:138][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.01.29-03.26.36:139][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.36:139][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.29-03.26.36:139][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2023.01.29-03.26.36:240][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.01.29-03.26.36:240][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.36:240][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.01.29-03.26.36:240][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2023.01.29-03.26.36:260][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.01.29-03.26.36:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.36:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.01.29-03.26.36:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2023.01.29-03.26.36:280][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.01.29-03.26.36:280][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.36:280][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.01.29-03.26.36:280][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2023.01.29-03.26.36:296][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.29-03.26.36:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.36:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.29-03.26.36:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2023.01.29-03.26.36:327][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.01.29-03.26.36:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.29-03.26.36:327][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.01.29-03.26.36:327][  0]LogPakFile: OnPakFileMounted2Time == 0.000120
+[2023.01.29-03.26.37:493][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.01.29-03.26.37:494][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2023.01.29-03.26.38:898][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.01.29-03.26.38:973][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.29-03.26.38:977][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.29-03.26.39:052][  0]LogSlate: Took 0.067825 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.29-03.26.39:284][  0]LogRenderer: Reallocating scene render targets to support 716x356 Format 10 NumSamples 1 (Frame:1).
+[2023.01.29-03.26.39:844][  0]LogSlate: Took 0.014876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.29-03.26.39:913][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.01.29-03.26.39:914][  0]LogLoad: (Engine Initialization) Total time: 17.36 seconds
+[2023.01.29-03.26.39:914][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.29-03.26.39:914][  0]LogInit: First time updating LLM stats...
+[2023.01.29-03.26.40:690][  0]LogAssetRegistry: Asset discovery search completed in 12.0736 seconds
+[2023.01.29-03.26.40:692][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.01.29-03.26.40:747][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.29-03.26.41:628][  3]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.29-03.27.31:979][520]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprin_obstaculos/picos_BP.picos_BP
+[2023.01.29-03.27.32:578][520]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2023.01.29-03.27.36:901][682]LogSlate: Window 'Class Defaults' being destroyed
+[2023.01.29-03.27.36:918][682]LogSlate: Window 'Class Defaults' being destroyed
+[2023.01.29-03.27.36:918][682]LogSlate: Window 'picos_BP' being destroyed
+[2023.01.29-03.27.36:929][682]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.29-03.27.36:929][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-03.27.37:012][682]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprin_obstaculos/picos_BP.picos_BP
+[2023.01.29-03.27.37:636][682]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.29-03.27.41:538][879]LogSlate: Window 'picos_BP' being destroyed
+[2023.01.29-03.28.02:689][503]LogSlate: Window 'Escoger clase padre' being destroyed
+[2023.01.29-03.28.02:695][503]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.29-03.28.02:711][503]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.29-03.28.08:305][833]LogContentBrowser: Attempting asset rename: NewBlueprint -> obstaculos_BP
+[2023.01.29-03.28.08:310][833]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.29-03.28.10:471][958]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprin_obstaculos/obstaculos_BP.obstaculos_BP
+[2023.01.29-03.28.10:941][959]LogRenderer: Reallocating scene render targets to support 716x596 Format 10 NumSamples 1 (Frame:1).
+[2023.01.29-03.28.25:516][444]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.29-03.28.25:529][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.29-03.28.25:530][444]PIE: New page: Sesión PIE (reproducción en el editor): mapas_1 (28 ene. 2023 19:28:25)
+[2023.01.29-03.28.25:531][444]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.01.29-03.28.25:533][444]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.29-03.28.25:533][444]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_mapas_1
+[2023.01.29-03.28.25:535][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002004s)
+[2023.01.29-03.28.25:536][444]LogAIModule: Creating AISystem for world mapas_1
+[2023.01.29-03.28.25:537][444]LogPlayLevel: PIE: World Init took: (0.001534s)
+[2023.01.29-03.28.25:537][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/mapas_1.mapas_1 to /Game/mapas/UEDPIE_0_mapas_1.mapas_1 (0.003813s)
+[2023.01.29-03.28.25:579][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.01.29-03.28.25:581][444]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.01.29-03.28.25:581][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.29-03.28.25:581][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.29-03.28.25:581][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.29-03.28.25:581][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.29-03.28.25:581][444]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.29-03.28.25:581][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.29-03.28.25:581][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.29-03.28.25:581][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.29-03.28.25:581][444]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.29-03.28.25:581][444]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.29-03.28.25:584][444]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.29-03.28.25:584][444]LogAudioMixer: Display: 1: FrontRight
+[2023.01.29-03.28.25:605][444]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2023.01.29-03.28.25:606][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.29-03.28.25:606][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.29-03.28.25:606][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.29-03.28.25:606][444]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.29-03.28.25:606][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.29-03.28.25:606][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.29-03.28.25:627][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.29-03.28.25:628][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.29-03.28.25:628][444]LogInit: FAudioDevice initialized.
+[2023.01.29-03.28.25:628][444]LogAudio: Display: Audio Device (ID: 2) registered with world 'mapas_1'.
+[2023.01.29-03.28.25:643][444]LogLoad: Game class is 'Mygeometric_dashGameMode_BP_C'
+[2023.01.29-03.28.25:644][444]LogWorld: Bringing World /Game/mapas/UEDPIE_0_mapas_1.mapas_1 up for play (max tick rate 60) at 2023.01.28-23.28.25
+[2023.01.29-03.28.25:645][444]LogWorld: Bringing up level for play took: 0.000936
+[2023.01.29-03.28.25:645][444]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2023.01.29-03.28.25:908][444]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2023.01.29-03.28.25:912][444]PIE: El servidor ha iniciado la sesión
+[2023.01.29-03.28.25:913][444]PIE: Play in editor total start time 0,386 seconds.
+[2023.01.29-03.28.40:525][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-03.28.40:525][189]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_mapas_1
+[2023.01.29-03.28.40:526][189]LogWorld: UWorld::CleanupWorld for mapas_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.29-03.28.40:526][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-03.28.40:537][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.29-03.28.40:542][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-03.28.40:580][189]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.29-03.28.40:580][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.29-03.28.40:581][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.29-03.28.40:607][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-03.28.40:630][189]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2023.01.29-03.28.40:652][190]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.01.29-03.29.28:922][612]LogMaterial: Display: Missing cached shader map for material M_ViveControllerTrim, compiling. 
+[2023.01.29-03.29.29:267][612]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2023.01.29-03.29.29:267][612]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2023.01.29-03.29.29:267][612]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2023.01.29-03.29.29:267][612]LogMaterial: Display: Missing cached shader map for material M_ViveControllerTrim, compiling. 
+[2023.01.29-03.29.49:416][880]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2023.01.29-03.29.52:008][974]BlueprintLog: New page: Compilar picos_BP
+[2023.01.29-03.29.52:269][974]LogUObjectHash: Compacting FUObjectHashTables data took   8.88ms
+[2023.01.29-03.29.54:114][ 23]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2023.01.29-03.30.01:609][316]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2023.01.29-03.30.04:119][432]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.01.29-03.30.11:544][725]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.01.29-03.32.32:901][627]LogSlate: Took 0.041520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.29-03.38.25:543][200]LogSlate: Window 'Canal nuevo' being destroyed
+[2023.01.29-03.40.03:425][325]LogSlate: Window 'Canal nuevo' being destroyed
+[2023.01.29-03.40.06:637][505]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2023.01.29-03.40.06:638][505]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/mapas/mapas_1' took 0.078
+[2023.01.29-03.40.06:639][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprin_obstaculos/picos_BP] ([1] browsable assets)...
+[2023.01.29-03.40.06:686][505]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprin_obstaculos/picos_BP.picos_BP]
+[2023.01.29-03.40.06:686][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprin_obstaculos/picos_BP]
+[2023.01.29-03.40.06:696][505]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/picos_BP_Auto1E65396EC40BE5723E16CFC85D5BBB5C7.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Autosaves/Game/blueprin_obstaculos/picos_BP_Auto1.uasset'
+[2023.01.29-03.40.06:697][505]LogFileHelpers: Auto-saving content packages took 0.058
+[2023.01.29-03.43.27:951][294]BlueprintLog: New page: Compilar picos_BP
+[2023.01.29-03.43.28:017][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2023.01.29-03.43.29:456][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprin_obstaculos/picos_BP" FILE="../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/blueprin_obstaculos/picos_BP.uasset" SILENT=true
+[2023.01.29-03.43.29:478][342]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/picos_BP4ABC1F884B1C3D8C53C2F6A7A0BD1BDE.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/blueprin_obstaculos/picos_BP.uasset'
+[2023.01.29-03.43.29:501][342]AssetCheck: New page: Asset Save: picos_BP
+[2023.01.29-03.43.29:501][342]LogContentValidation: Display: Validating Blueprint /Game/blueprin_obstaculos/picos_BP.picos_BP
+[2023.01.29-03.50.06:939][758]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2023.01.29-03.50.06:948][758]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/mapas/mapas_1' took 0.072
+[2023.01.29-03.50.06:948][758]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprin_obstaculos/picos_BP] ([1] browsable assets)...
+[2023.01.29-03.50.07:001][758]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprin_obstaculos/picos_BP.picos_BP]
+[2023.01.29-03.50.07:001][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprin_obstaculos/picos_BP]
+[2023.01.29-03.50.07:011][758]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/picos_BP_Auto2877E16C143E8ED8969758090EA26AAFD.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Autosaves/Game/blueprin_obstaculos/picos_BP_Auto2.uasset'
+[2023.01.29-03.50.07:015][758]LogFileHelpers: Auto-saving content packages took 0.067
+[2023.01.29-03.51.50:995][675]BlueprintLog: New page: Compilar picos_BP
+[2023.01.29-03.51.51:083][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.01.29-03.55.50:095][266]BlueprintLog: New page: Compilar obstaculos_BP
+[2023.01.29-03.55.50:159][266]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2023.01.29-03.58.56:264][ 73]BlueprintLog: New page: Compilar obstaculos_BP
+[2023.01.29-03.58.56:339][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2023.01.29-04.00.25:136][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2023.01.29-04.00.25:139][863]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/mapas/mapas_1' took 0.048
+[2023.01.29-04.00.25:139][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprin_obstaculos/picos_BP] ([1] browsable assets)...
+[2023.01.29-04.00.25:183][863]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprin_obstaculos/picos_BP.picos_BP]
+[2023.01.29-04.00.25:184][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprin_obstaculos/picos_BP]
+[2023.01.29-04.00.25:193][863]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/picos_BP_Auto3E2283DBA4D4F62C4971015BD5C6DBADC.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Autosaves/Game/blueprin_obstaculos/picos_BP_Auto3.uasset'
+[2023.01.29-04.00.25:196][863]LogFileHelpers: Auto-saving content packages took 0.057
+[2023.01.29-04.02.13:694][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.01.29-04.02.13:715][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprin_obstaculos/picos_BP" FILE="../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/blueprin_obstaculos/picos_BP.uasset" SILENT=true
+[2023.01.29-04.02.13:720][419]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/picos_BP0B58215A4C0128CE2B7633829D6BB4BD.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/blueprin_obstaculos/picos_BP.uasset'
+[2023.01.29-04.02.13:767][419]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/obstaculos_BP8458A10B4AB933E72FC4B3BC2E613B40.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/blueprin_obstaculos/obstaculos_BP.uasset'
+[2023.01.29-04.02.13:786][419]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.29-04.02.13:786][419]LogContentValidation: Display: Validating Blueprint /Game/blueprin_obstaculos/picos_BP.picos_BP
+[2023.01.29-04.02.13:786][419]LogContentValidation: Display: Validating Blueprint /Game/blueprin_obstaculos/obstaculos_BP.obstaculos_BP
+[2023.01.29-04.03.16:652][950]Running C:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/geometric_dash.uproject" -game -rocket -progress
+[2023.01.29-04.03.17:161][950]Discovering modules, targets and source code for project...
+[2023.01.29-04.03.26:427][950]Binding IntelliSense data...
+[2023.01.29-04.03.50:609][950]Binding IntelliSense data... 50%
+[2023.01.29-04.03.50:609][950]Binding IntelliSense data... 100%
+[2023.01.29-04.03.50:610][950]Writing project files...
+[2023.01.29-04.04.03:194][950]Writing project files... 67%
+[2023.01.29-04.04.03:194][950]Writing project files... 100%
+[2023.01.29-04.04.03:676][950]Candidate modules for hot reload:
+[2023.01.29-04.04.03:676][950]  geometric_dash
+[2023.01.29-04.04.03:676][950]Launching UnrealBuildTool... [C:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=geometric_dash,1578 geometric_dashEditor Win64 Development -Project="C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/geometric_dash.uproject" "C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/geometric_dash.uproject"  -IgnoreJunk]
+[2023.01.29-04.04.22:197][950]CompilerResultsLog: New page: Compilación - 28 ene. 2023 20:04:22
+[2023.01.29-04.04.22:197][950]CompilerResultsLog: Creating makefile for geometric_dashEditor (no existing makefile)
+[2023.01.29-04.04.22:197][950]CompilerResultsLog: Parsing headers for geometric_dashEditor
+[2023.01.29-04.04.22:198][950]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Armando\source\repos\sis457\ARCANOID\geometric_dash\geometric_dash.uproject" "C:\Users\Armando\source\repos\sis457\ARCANOID\geometric_dash\Intermediate\Build\Win64\geometric_dashEditor\Development\geometric_dashEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Armando\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.01.29-04.04.22:198][950]CompilerResultsLog: Reflection code generated for geometric_dashEditor in 11,6392376 seconds
+[2023.01.29-04.04.22:198][950]CompilerResultsLog: Building geometric_dashEditor...
+[2023.01.29-04.04.22:198][950]CompilerResultsLog: Using Visual Studio 2019 14.29.30147 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.01.29-04.04.22:198][950]CompilerResultsLog: Building 6 actions with 4 processes...
+[2023.01.29-04.04.22:198][950]CompilerResultsLog:   [1/6] nivel_base.cpp
+[2023.01.29-04.04.22:198][950]CompilerResultsLog:   [2/6] geometric_dash.init.gen.cpp
+[2023.01.29-04.04.22:198][950]CompilerResultsLog:   [3/6] nivel_base.gen.cpp
+[2023.01.29-04.04.22:198][950]CompilerResultsLog:   [4/6] UE4Editor-geometric_dash-1578.lib
+[2023.01.29-04.04.22:198][950]CompilerResultsLog:      Creando biblioteca C:\Users\Armando\source\repos\sis457\ARCANOID\geometric_dash\Intermediate\Build\Win64\UE4Editor\Development\geometric_dash\UE4Editor-geometric_dash-1578.lib y objeto C:\Users\Armando\source\repos\sis457\ARCANOID\geometric_dash\Intermediate\Build\Win64\UE4Editor\Development\geometric_dash\UE4Editor-geometric_dash-1578.exp
+[2023.01.29-04.04.22:198][950]CompilerResultsLog:   [5/6] UE4Editor-geometric_dash-1578.dll
+[2023.01.29-04.04.22:198][950]CompilerResultsLog:      Creando biblioteca C:\Users\Armando\source\repos\sis457\ARCANOID\geometric_dash\Intermediate\Build\Win64\UE4Editor\Development\geometric_dash\UE4Editor-geometric_dash-1578.suppressed.lib y objeto C:\Users\Armando\source\repos\sis457\ARCANOID\geometric_dash\Intermediate\Build\Win64\UE4Editor\Development\geometric_dash\UE4Editor-geometric_dash-1578.suppressed.exp
+[2023.01.29-04.04.22:198][950]CompilerResultsLog:   [6/6] geometric_dashEditor.target
+[2023.01.29-04.04.22:198][950]CompilerResultsLog: Total time in Parallel executor: 3,27 seconds
+[2023.01.29-04.04.22:198][950]CompilerResultsLog: Total execution time: 18,42 seconds
+[2023.01.29-04.04.22:198][950]LogMainFrame: MainFrame: Module compiling took 18.654 seconds
+[2023.01.29-04.04.22:279][950]LogClass: Could not find existing class nivel_base in package /Script/geometric_dash for HotReload, assuming new class
+[2023.01.29-04.04.22:298][950]LogHotReload: Re-instancing RunerCaracter after hot-reload.
+[2023.01.29-04.04.22:343][950]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'geometric_dash' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2023.01.29-04.04.22:348][950]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.01.29-04.04.22:550][950]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0151 seconds. Added 3607 classes and 861 folders.
+[2023.01.29-04.04.22:550][950]Display: HotReload took 19.3s.
+[2023.01.29-04.04.22:570][950]Warning: HotReload operation took 19.3s.
+[2023.01.29-04.04.25:179][950]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.01.29-04.04.25:574][950]LogHotReload: New module detected: UE4Editor-geometric_dash-1578.dll
+[2023.01.29-04.04.25:626][951]LogHotReload: Starting Hot-Reload from IDE
+[2023.01.29-04.04.25:655][951]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'geometric_dash' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2023.01.29-04.04.25:660][951]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.01.29-04.04.25:678][951]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0124 seconds. Added 3607 classes and 861 folders.
+[2023.01.29-04.04.25:682][951]Display: HotReload took  0.1s.
+[2023.01.29-04.40.04:020][236]LogHotReload: New module detected: UE4Editor-geometric_dash-0015.dll
+[2023.01.29-04.40.09:855][255]LogHotReload: Starting Hot-Reload from IDE
+[2023.01.29-04.40.12:738][255]LogClass: Could not find existing class nivel_base in package /Script/geometric_dash for HotReload, assuming new class
+[2023.01.29-04.40.13:180][255]LogHotReload: Re-instancing nivel_base after hot-reload.
+[2023.01.29-04.40.14:011][255]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'geometric_dash' in 0.0161 seconds. Added 6 classes and 2 folders.
+[2023.01.29-04.40.14:033][255]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.01.29-04.40.17:136][255]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0189 seconds. Added 3607 classes and 861 folders.
+[2023.01.29-04.40.17:361][255]Display: HotReload took  7.5s.
+[2023.01.29-04.40.49:565][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/picos_BP.picos_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/blueprin_obstaculos/picos_BP.PackageMetaData'
+[2023.01.29-04.40.49:566][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/picos_BP.picos_BP_C' ref from Metadata '/Game/blueprin_obstaculos/picos_BP.PackageMetaData'
+[2023.01.29-04.40.49:566][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/picos_BP.picos_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/blueprin_obstaculos/picos_BP.PackageMetaData'
+[2023.01.29-04.40.49:566][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/picos_BP.picos_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/blueprin_obstaculos/picos_BP.PackageMetaData'
+[2023.01.29-04.40.49:566][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/picos_BP.picos_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/blueprin_obstaculos/picos_BP.PackageMetaData'
+[2023.01.29-04.40.49:566][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/picos_BP.SKEL_picos_BP_C' ref from Metadata '/Game/blueprin_obstaculos/picos_BP.PackageMetaData'
+[2023.01.29-04.40.49:566][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/picos_BP.SKEL_picos_BP_C:UserConstructionScript' ref from Metadata '/Game/blueprin_obstaculos/picos_BP.PackageMetaData'
+[2023.01.29-04.40.49:566][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/picos_BP.SKEL_picos_BP_C:ReceiveTick' ref from Metadata '/Game/blueprin_obstaculos/picos_BP.PackageMetaData'
+[2023.01.29-04.40.49:566][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/picos_BP.SKEL_picos_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/blueprin_obstaculos/picos_BP.PackageMetaData'
+[2023.01.29-04.40.49:566][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/picos_BP.SKEL_picos_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/blueprin_obstaculos/picos_BP.PackageMetaData'
+[2023.01.29-04.40.49:614][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/obstaculos_BP.obstaculos_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/blueprin_obstaculos/obstaculos_BP.PackageMetaData'
+[2023.01.29-04.40.49:614][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/obstaculos_BP.SKEL_obstaculos_BP_C' ref from Metadata '/Game/blueprin_obstaculos/obstaculos_BP.PackageMetaData'
+[2023.01.29-04.40.49:615][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/obstaculos_BP.obstaculos_BP_C' ref from Metadata '/Game/blueprin_obstaculos/obstaculos_BP.PackageMetaData'
+[2023.01.29-04.40.49:615][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/obstaculos_BP.obstaculos_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/blueprin_obstaculos/obstaculos_BP.PackageMetaData'
+[2023.01.29-04.40.49:615][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/obstaculos_BP.obstaculos_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/blueprin_obstaculos/obstaculos_BP.PackageMetaData'
+[2023.01.29-04.40.49:615][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/obstaculos_BP.obstaculos_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/blueprin_obstaculos/obstaculos_BP.PackageMetaData'
+[2023.01.29-04.40.49:615][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/obstaculos_BP.SKEL_obstaculos_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/blueprin_obstaculos/obstaculos_BP.PackageMetaData'
+[2023.01.29-04.40.49:615][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/obstaculos_BP.SKEL_obstaculos_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/blueprin_obstaculos/obstaculos_BP.PackageMetaData'
+[2023.01.29-04.40.49:615][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/obstaculos_BP.SKEL_obstaculos_BP_C:ReceiveTick' ref from Metadata '/Game/blueprin_obstaculos/obstaculos_BP.PackageMetaData'
+[2023.01.29-04.40.49:616][633]LogMetaData: Removing '/Game/Blueprints/blueprin_obstaculos/obstaculos_BP.SKEL_obstaculos_BP_C:UserConstructionScript' ref from Metadata '/Game/blueprin_obstaculos/obstaculos_BP.PackageMetaData'
+[2023.01.29-04.40.50:023][633]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/picos_BP643E309E49C5AB1766AF0F821A8848DC.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/Blueprints/blueprin_obstaculos/picos_BP.uasset'
+[2023.01.29-04.40.50:120][633]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/obstaculos_BPA23283704D9D67B010C6E197FACBF412.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/Blueprints/blueprin_obstaculos/obstaculos_BP.uasset'
+[2023.01.29-04.40.53:376][633]LogUObjectHash: Compacting FUObjectHashTables data took   9.39ms
+[2023.01.29-04.40.54:095][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.01.29-04.40.54:147][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.01.29-04.40.54:180][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.01.29-04.40.54:341][633]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.29-04.40.54:473][633]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/blueprin_obstaculos/picos_BP.picos_BP
+[2023.01.29-04.40.54:474][633]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/blueprin_obstaculos/obstaculos_BP.obstaculos_BP
+[2023.01.29-04.41.00:823][802]LogContentBrowser: Deferred new asset folder creation: Carpeta nueva
+[2023.01.29-04.41.00:963][802]LogContentBrowser: Creating deferred item: Carpeta nueva
+[2023.01.29-04.41.04:256][883]LogContentBrowser: Attempting asset rename: Carpeta nueva -> niveles
+[2023.01.29-04.41.04:257][883]LogContentBrowser: End creating deferred item Carpeta nueva
+[2023.01.29-04.41.16:383][ 88]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.29-04.41.27:782][ 88]LogSlate: Window 'Escoger clase padre' being destroyed
+[2023.01.29-04.41.27:823][ 88]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.29-04.41.27:847][ 88]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.29-04.41.34:999][437]LogContentBrowser: Attempting asset rename: NewBlueprint -> nivel_base_BP
+[2023.01.29-04.41.35:342][437]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.29-04.41.36:744][509]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/niveles/nivel_base_BP.nivel_base_BP
+[2023.01.29-04.43.53:279][830]BlueprintLog: New page: Compilar nivel_base_BP
+[2023.01.29-04.43.53:463][830]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2023.01.29-04.43.54:334][858]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/nivel_base_BPACB4B71843D113AC9A1CADA8F8F966A9.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/Blueprints/niveles/nivel_base_BP.uasset'
+[2023.01.29-04.43.54:354][858]AssetCheck: New page: Asset Save: nivel_base_BP
+[2023.01.29-04.43.54:354][858]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/niveles/nivel_base_BP.nivel_base_BP
+[2023.01.29-04.48.02:383][981]BlueprintLog: New page: Compilar nivel_base_BP
+[2023.01.29-04.48.02:596][981]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2023.01.29-04.48.47:113][ 36]LogHotReload: New module detected: UE4Editor-geometric_dash-0016.dll
+[2023.01.29-04.48.48:799][ 42]LogHotReload: Starting Hot-Reload from IDE
+[2023.01.29-04.48.49:080][ 42]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'geometric_dash' in 0.0005 seconds. Added 6 classes and 2 folders.
+[2023.01.29-04.48.49:087][ 42]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.01.29-04.48.49:308][ 42]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0147 seconds. Added 3607 classes and 861 folders.
+[2023.01.29-04.48.49:326][ 42]Display: HotReload took  0.5s.
+[2023.01.29-04.50.36:928][125]LogHotReload: New module detected: UE4Editor-geometric_dash-0017.dll
+[2023.01.29-04.50.38:284][130]LogHotReload: Starting Hot-Reload from IDE
+[2023.01.29-04.50.38:367][130]LogClass: Could not find existing class nivel_base in package /Script/geometric_dash for HotReload, assuming new class
+[2023.01.29-04.50.38:391][130]LogHotReload: Re-instancing nivel_base after hot-reload.
+[2023.01.29-04.50.38:509][130]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'geometric_dash' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2023.01.29-04.50.38:522][130]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.01.29-04.50.38:843][130]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0153 seconds. Added 3607 classes and 861 folders.
+[2023.01.29-04.50.38:846][130]Display: HotReload took  0.6s.
+[2023.01.29-04.50.56:295][179]LogHotReload: New module detected: UE4Editor-geometric_dash-0018.dll
+[2023.01.29-04.51.06:270][473]LogHotReload: Starting Hot-Reload from IDE
+[2023.01.29-04.51.06:382][473]LogClass: Could not find existing class nivel_base in package /Script/geometric_dash for HotReload, assuming new class
+[2023.01.29-04.51.06:404][473]LogHotReload: Re-instancing nivel_base after hot-reload.
+[2023.01.29-04.51.06:512][473]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'geometric_dash' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2023.01.29-04.51.06:520][473]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.01.29-04.51.06:862][473]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0196 seconds. Added 3607 classes and 861 folders.
+[2023.01.29-04.51.06:867][473]Display: HotReload took  0.6s.
+[2023.01.29-04.52.13:858][103]LogUObjectHash: Compacting FUObjectHashTables data took  16.77ms
+[2023.01.29-04.52.13:911][103]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/mapas/mapas_1' took 0.507
+[2023.01.29-04.52.13:913][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/niveles/nivel_base_BP] ([1] browsable assets)...
+[2023.01.29-04.52.13:913][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/niveles/nivel_base_BP]
+[2023.01.29-04.52.13:946][103]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/nivel_base_BP_Auto41B23F6914E9FF715884F53AB83A0C94F.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Autosaves/Game/Blueprints/niveles/nivel_base_BP_Auto4.uasset'
+[2023.01.29-04.52.14:004][103]LogFileHelpers: Auto-saving content packages took 0.093
+[2023.01.29-04.52.29:143][146]LogHotReload: New module detected: UE4Editor-geometric_dash-0019.dll
+[2023.01.29-04.52.30:225][150]LogHotReload: Starting Hot-Reload from IDE
+[2023.01.29-04.52.30:397][150]LogClass: Could not find existing class nivel_base in package /Script/geometric_dash for HotReload, assuming new class
+[2023.01.29-04.52.30:461][150]LogHotReload: Re-instancing nivel_base after hot-reload.
+[2023.01.29-04.52.30:594][150]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'geometric_dash' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2023.01.29-04.52.30:606][150]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.01.29-04.52.30:947][150]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0135 seconds. Added 3607 classes and 861 folders.
+[2023.01.29-04.52.30:952][150]Display: HotReload took  0.7s.
+[2023.01.29-04.56.14:421][ 53]LogHotReload: New module detected: UE4Editor-geometric_dash-0020.dll
+[2023.01.29-04.56.16:329][147]LogHotReload: Starting Hot-Reload from IDE
+[2023.01.29-04.56.16:470][147]LogClass: Could not find existing class nivel_base in package /Script/geometric_dash for HotReload, assuming new class
+[2023.01.29-04.56.16:517][147]LogHotReload: Re-instancing nivel_base after hot-reload.
+[2023.01.29-04.56.16:656][147]LogBlueprint: Warning: [AssetLog] C:\Users\Armando\source\repos\sis457\ARCANOID\geometric_dash\Content\Blueprints\niveles\nivel_base_BP.uasset: [Compiler] Could not find a variable named "unbicacion_generacion" in 'nivel_base_BP_C'.
+Make sure 'nivel_base_BP_C' has been compiled for  Ajustar unbicacion_generacion
+[2023.01.29-04.56.16:669][147]LogBlueprint: Error: [AssetLog] C:\Users\Armando\source\repos\sis457\ARCANOID\geometric_dash\Content\Blueprints\niveles\nivel_base_BP.uasset: [Compiler] La propiedad asociada con  Unbicacion Generacion  no se ha encontrado
+[2023.01.29-04.56.17:843][147]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'geometric_dash' in 0.0005 seconds. Added 6 classes and 2 folders.
+[2023.01.29-04.56.17:853][147]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.01.29-04.56.18:277][147]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0124 seconds. Added 3607 classes and 861 folders.
+[2023.01.29-04.56.18:281][147]Display: HotReload took  2.0s.
+[2023.01.29-04.57.01:613][344]BlueprintLog: New page: Compilar nivel_base_BP
+[2023.01.29-04.57.02:173][344]LogUObjectHash: Compacting FUObjectHashTables data took  11.08ms
+[2023.01.29-04.57.03:985][399]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/nivel_base_BP24A0CC3B4A3EEFED96DD2DB598350FBC.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/Blueprints/niveles/nivel_base_BP.uasset'
+[2023.01.29-04.57.04:072][399]AssetCheck: New page: Asset Save: nivel_base_BP
+[2023.01.29-04.57.04:072][399]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/niveles/nivel_base_BP.nivel_base_BP
+[2023.01.29-04.59.18:717][685]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.18:721][685]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.18:723][685]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.18:723][685]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.27:412][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.27:413][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.27:413][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.50:503][627]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.50:503][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.50:503][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.50:504][627]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.50:504][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.50:504][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.50:504][627]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.50:504][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.50:504][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.50:505][627]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.50:505][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.50:505][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.50:505][627]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.50:505][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.50:505][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.50:506][627]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.50:506][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.50:506][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.50:506][627]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.50:506][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.50:506][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.50:506][627]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.50:506][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.50:506][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.50:530][627]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.50:530][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.50:530][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.50:534][627]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.50:534][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.50:534][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.50:536][627]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.50:536][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.50:536][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.50:536][627]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.50:536][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.50:543][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.53:263][667]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.53:263][667]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.53:263][667]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.53:265][667]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.53:265][667]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.53:265][667]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.53:268][667]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.53:268][667]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.53:268][667]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.53:269][667]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.53:269][667]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.53:269][667]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.53:272][667]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.53:272][667]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.53:273][667]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.53:274][667]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.53:274][667]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.53:274][667]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.53:275][667]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.53:275][667]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.53:275][667]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.53:276][667]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.53:276][667]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.53:276][667]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.53:336][667]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.53:336][667]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.53:336][667]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.53:338][667]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.53:338][667]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.53:338][667]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.53:338][667]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.53:338][667]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.53:338][667]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.53:339][667]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.53:339][667]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.01.29-04.59.53:339][667]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.01.29-04.59.57:659][730]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.57:662][730]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.57:664][730]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.57:664][730]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.57:667][730]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.57:668][730]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.57:668][730]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.57:670][730]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.57:687][730]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.57:688][730]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.57:694][730]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-04.59.57:695][730]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.nivel_base_BP_C_0.cubo has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.01.29-05.01.21:750][464]BlueprintLog: New page: Compilar nivel_base_BP
+[2023.01.29-05.01.21:937][464]LogUObjectHash: Compacting FUObjectHashTables data took  10.28ms
+[2023.01.29-05.01.48:893][438]BlueprintLog: New page: Compilar nivel_base_BP
+[2023.01.29-05.01.49:004][438]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2023.01.29-05.01.50:225][475]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/nivel_base_BP003067594C3B21792C0FBEB093246631.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/Blueprints/niveles/nivel_base_BP.uasset'
+[2023.01.29-05.01.50:278][475]AssetCheck: New page: Asset Save: nivel_base_BP
+[2023.01.29-05.01.50:278][475]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/niveles/nivel_base_BP.nivel_base_BP
+[2023.01.29-05.01.51:562][521]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.01.29-05.01.51:597][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-05.01.54:791][616]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/niveles/nivel_base_BP.nivel_base_BP
+[2023.01.29-05.03.13:106][830]LogUObjectHash: Compacting FUObjectHashTables data took  11.88ms
+[2023.01.29-05.03.13:115][830]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/mapas/mapas_1' took 0.179
+[2023.01.29-05.03.13:116][830]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/niveles/nivel_base_BP] ([1] browsable assets)...
+[2023.01.29-05.03.13:159][830]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/niveles/nivel_base_BP.nivel_base_BP]
+[2023.01.29-05.03.13:159][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/niveles/nivel_base_BP]
+[2023.01.29-05.03.13:221][830]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/nivel_base_BP_Auto54691118347FA9C241A451D897B1C4194.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Autosaves/Game/Blueprints/niveles/nivel_base_BP_Auto5.uasset'
+[2023.01.29-05.03.13:242][830]LogFileHelpers: Auto-saving content packages took 0.127
+[2023.01.29-05.03.30:642][411]BlueprintLog: New page: Compilar nivel_base_BP
+[2023.01.29-05.03.30:772][411]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2023.01.29-05.05.44:118][648]BlueprintLog: New page: Compilar nivel_base_BP
+[2023.01.29-05.05.44:215][648]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2023.01.29-05.05.50:494][924]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.01.29-05.05.50:494][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-05.05.54:802][ 95]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/niveles/nivel_base_BP.nivel_base_BP
+[2023.01.29-05.06.10:362][758]BlueprintLog: New page: Compilar nivel_base_BP
+[2023.01.29-05.06.10:475][758]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2023.01.29-05.08.23:190][924]BlueprintLog: New page: Compilar nivel_base_BP
+[2023.01.29-05.08.23:313][924]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2023.01.29-05.08.27:768][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2023.01.29-05.08.27:935][136]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/nivel_base_BP3BE19FF34111ACE30B8AF5ABDD0D1657.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/Blueprints/niveles/nivel_base_BP.uasset'
+[2023.01.29-05.08.27:960][136]AssetCheck: New page: Asset Save: nivel_base_BP
+[2023.01.29-05.08.27:960][136]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/niveles/nivel_base_BP.nivel_base_BP
+[2023.01.29-05.09.10:559][419]LogAudioMixer: Resetting audio stream to device id 
+[2023.01.29-05.09.12:945][419]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.29-05.09.12:945][419]LogAudioMixer: Display: 1: FrontRight
+[2023.01.29-05.09.13:853][420]LogAudioMixer: Resetting audio stream to device id 
+[2023.01.29-05.09.14:053][420]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.29-05.09.14:053][420]LogAudioMixer: Display: 1: FrontRight
+[2023.01.29-08.09.31:462][464]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.01.29-08.09.33:074][465]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.01.29-12.59.10:659][529]LogHttp: Warning: 0000025D85804800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B151E70FC-4A5A-FECD-CD97-02B6821C769C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=8e62f27b476808516c2b6888ca5e856a%7Ca71d3c15ce504a8eae755de4a969c0c6%7C23f55d06-109b-4cb6-8536-ae31b090c69e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.01.29-12.59.11:408][529]LogHttp: Warning: 0000025D85804800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.01.29-12.59.11:408][529]LogHttp: Warning: 0000025D85804800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x25d6901beb0 [can pipeline])
+[2023.01.29-12.59.11:408][529]LogHttp: Warning: 0000025D85804800: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2023.01.29-12.59.11:408][529]LogHttp: Warning: 0000025D85804800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.220.198.144) port 443 (#5))
+[2023.01.29-12.59.11:408][529]LogHttp: Warning: 0000025D85804800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.01.29-12.59.11:408][529]LogHttp: Warning: 0000025D85804800: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.01.29-12.59.11:408][529]LogHttp: Warning: 0000025D85804800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.01.29-12.59.11:408][529]LogHttp: Warning: 0000025D85804800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.01.29-12.59.11:408][529]LogHttp: Warning: 0000025D85804800: libcurl info message cache 7 (Closing connection 5)
+[2023.01.29-12.59.11:902][530]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B151E70FC-4A5A-FECD-CD97-02B6821C769C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=8e62f27b476808516c2b6888ca5e856a%7Ca71d3c15ce504a8eae755de4a969c0c6%7C23f55d06-109b-4cb6-8536-ae31b090c69e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.01.29-13.01.19:943][718]BlueprintLog: New page: Compilar nivel_base_BP
+[2023.01.29-13.01.20:055][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2023.01.29-13.09.11:771][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2023.01.29-13.09.11:781][ 77]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/mapas/mapas_1' took 0.063
+[2023.01.29-13.09.11:781][ 77]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/niveles/nivel_base_BP] ([1] browsable assets)...
+[2023.01.29-13.09.11:824][ 77]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/niveles/nivel_base_BP.nivel_base_BP]
+[2023.01.29-13.09.11:824][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/niveles/nivel_base_BP]
+[2023.01.29-13.09.11:874][ 77]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/nivel_base_BP_Auto689C449784CFD16F044FC8CBB8C84B90E.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Autosaves/Game/Blueprints/niveles/nivel_base_BP_Auto6.uasset'
+[2023.01.29-13.09.11:876][ 77]LogFileHelpers: Auto-saving content packages took 0.095
+[2023.01.29-13.19.12:325][275]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.01.29-13.19.12:334][275]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/mapas/mapas_1' took 0.073
+[2023.01.29-13.19.12:335][275]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/niveles/nivel_base_BP] ([1] browsable assets)...
+[2023.01.29-13.19.12:335][275]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/niveles/nivel_base_BP]
+[2023.01.29-13.19.12:345][275]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/nivel_base_BP_Auto7E6CB533649388F37CDB148A397DD1F49.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Autosaves/Game/Blueprints/niveles/nivel_base_BP_Auto7.uasset'
+[2023.01.29-13.19.12:348][275]LogFileHelpers: Auto-saving content packages took 0.014
+[2023.01.29-14.10.37:071][685]BlueprintLog: New page: Compilar nivel_base_BP
+[2023.01.29-14.10.37:191][685]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2023.01.29-14.10.43:463][964]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2023.01.29-14.10.43:551][964]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/nivel_base_BP2D5FFC3348079408476615BE71DCE84C.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/Blueprints/niveles/nivel_base_BP.uasset'
+[2023.01.29-14.10.43:690][964]AssetCheck: New page: Asset Save: nivel_base_BP
+[2023.01.29-14.10.43:690][964]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/niveles/nivel_base_BP.nivel_base_BP
+[2023.01.29-14.16.32:226][604]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.29-14.17.17:430][604]LogSlate: Window 'Escoger clase padre' being destroyed
+[2023.01.29-14.17.17:440][604]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.29-14.17.17:463][604]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.29-14.17.29:014][858]LogContentBrowser: Attempting asset rename: NewBlueprint -> nivel_2_BP
+[2023.01.29-14.17.29:030][858]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.29-14.17.30:541][879]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/niveles/nivel_2_BP.nivel_2_BP
+[2023.01.29-14.20.15:582][104]BlueprintLog: New page: Compilar nivel_2_BP
+[2023.01.29-14.20.15:756][104]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2023.01.29-14.22.27:428][812]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.01.29-14.22.27:453][812]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.01.29-14.22.30:298][886]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2023.01.29-14.22.30:346][886]LogContentBrowser: End creating deferred item NewMaterial
+[2023.01.29-14.22.32:592][911]LogUObjectHash: Compacting FUObjectHashTables data took  10.34ms
+[2023.01.29-14.22.34:211][911]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.29-14.22.34:348][911]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.01.29-14.22.36:630][977]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.29-14.22.43:613][977]LogSlate: Window 'Escoger clase padre' being destroyed
+[2023.01.29-14.22.43:622][977]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.29-14.22.43:641][977]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.29-14.23.01:675][209]LogContentBrowser: Attempting asset rename: NewBlueprint -> nivel_3_BP
+[2023.01.29-14.23.01:696][209]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.29-14.23.03:254][225]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/niveles/nivel_3_BP.nivel_3_BP
+[2023.01.29-14.24.12:362][778]BlueprintLog: New page: Compilar nivel_3_BP
+[2023.01.29-14.24.12:561][778]LogUObjectHash: Compacting FUObjectHashTables data took  26.51ms
+[2023.01.29-14.24.16:479][922]BlueprintLog: New page: Compilar nivel_2_BP
+[2023.01.29-14.24.16:583][922]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.01.29-14.25.54:289][700]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.29-14.26.00:859][700]LogSlate: Window 'Escoger clase padre' being destroyed
+[2023.01.29-14.26.00:867][700]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.29-14.26.00:890][700]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.29-14.26.09:288][800]LogContentBrowser: Attempting asset rename: NewBlueprint -> nivel_4_BP
+[2023.01.29-14.26.09:301][800]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.29-14.26.11:015][823]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/niveles/nivel_4_BP.nivel_4_BP
+[2023.01.29-14.27.23:151][137]BlueprintLog: New page: Compilar nivel_4_BP
+[2023.01.29-14.27.23:319][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2023.01.29-14.27.36:458][296]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.29-14.27.42:081][296]LogSlate: Window 'Escoger clase padre' being destroyed
+[2023.01.29-14.27.42:090][296]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.29-14.27.42:112][296]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.29-14.27.48:058][383]LogContentBrowser: Attempting asset rename: NewBlueprint -> nivel_5_BP
+[2023.01.29-14.27.48:075][383]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.29-14.27.49:519][400]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/niveles/nivel_5_BP.nivel_5_BP
+[2023.01.29-14.29.56:762][827]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.29-14.31.31:067][772]BlueprintLog: New page: Compilar nivel_5_BP
+[2023.01.29-14.31.31:239][772]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2023.01.29-14.31.51:059][902]BlueprintLog: New page: Compilar nivel_5_BP
+[2023.01.29-14.31.51:177][902]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2023.01.29-14.31.56:687][ 76]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.29-14.32.03:109][ 76]LogSlate: Window 'Escoger clase padre' being destroyed
+[2023.01.29-14.32.03:119][ 76]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.29-14.32.03:141][ 76]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.29-14.32.03:423][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2023.01.29-14.32.03:424][ 77]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/mapas/mapas_1' took 0.071
+[2023.01.29-14.32.03:424][ 77]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/niveles/nivel_2_BP] ([1] browsable assets)...
+[2023.01.29-14.32.03:474][ 77]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/niveles/nivel_2_BP.nivel_2_BP]
+[2023.01.29-14.32.03:474][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/niveles/nivel_2_BP]
+[2023.01.29-14.32.03:493][ 77]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/nivel_2_BP_Auto85BC5297C40E4B6B3FA67B888045D9458.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Autosaves/Game/Blueprints/niveles/nivel_2_BP_Auto8.uasset'
+[2023.01.29-14.32.03:495][ 77]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/niveles/nivel_3_BP] ([1] browsable assets)...
+[2023.01.29-14.32.03:532][ 77]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/niveles/nivel_3_BP.nivel_3_BP]
+[2023.01.29-14.32.03:532][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/niveles/nivel_3_BP]
+[2023.01.29-14.32.03:596][ 77]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/nivel_3_BP_Auto80BF175B94E3BDB289FF7789AC5ADDFCD.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Autosaves/Game/Blueprints/niveles/nivel_3_BP_Auto8.uasset'
+[2023.01.29-14.32.03:603][ 77]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/niveles/nivel_4_BP] ([1] browsable assets)...
+[2023.01.29-14.32.03:668][ 77]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/niveles/nivel_4_BP.nivel_4_BP]
+[2023.01.29-14.32.03:669][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/niveles/nivel_4_BP]
+[2023.01.29-14.32.03:686][ 77]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/nivel_4_BP_Auto8EFF620A8477FB27ECBA868B6C56915EA.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Autosaves/Game/Blueprints/niveles/nivel_4_BP_Auto8.uasset'
+[2023.01.29-14.32.03:688][ 77]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/niveles/nivel_5_BP] ([1] browsable assets)...
+[2023.01.29-14.32.03:728][ 77]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/niveles/nivel_5_BP.nivel_5_BP]
+[2023.01.29-14.32.03:728][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/niveles/nivel_5_BP]
+[2023.01.29-14.32.03:741][ 77]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/nivel_5_BP_Auto8C35F8B934ECA5F48BE751290F23B9762.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Autosaves/Game/Blueprints/niveles/nivel_5_BP_Auto8.uasset'
+[2023.01.29-14.32.03:742][ 77]LogFileHelpers: Auto-saving content packages took 0.318
+[2023.01.29-14.32.09:249][148]LogContentBrowser: Attempting asset rename: NewBlueprint -> nivel_6_BP
+[2023.01.29-14.32.09:261][148]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.29-14.32.10:995][167]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/niveles/nivel_6_BP.nivel_6_BP
+[2023.01.29-14.32.36:891][157]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.29-14.33.24:553][995]BlueprintLog: New page: Compilar nivel_6_BP
+[2023.01.29-14.33.24:702][995]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2023.01.29-14.33.42:863][162]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.29-14.33.48:639][162]LogSlate: Window 'Escoger clase padre' being destroyed
+[2023.01.29-14.33.48:648][162]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.29-14.33.48:671][162]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.29-14.33.56:652][250]LogContentBrowser: Attempting asset rename: NewBlueprint -> nivel_7_BP
+[2023.01.29-14.33.56:669][250]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.29-14.33.58:469][273]LogContentBrowser: Attempting asset rename: nivel_7_BP -> nivel_7_BP
+[2023.01.29-14.33.58:728][275]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/niveles/nivel_7_BP.nivel_7_BP
+[2023.01.29-14.34.42:627][940]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.29-14.35.04:419][777]BlueprintLog: New page: Compilar nivel_7_BP
+[2023.01.29-14.35.04:622][777]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2023.01.29-14.35.50:136][  0]Running C:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/geometric_dash.uproject" -game -rocket -progress
+[2023.01.29-14.35.52:164][  0]Discovering modules, targets and source code for project...
+[2023.01.29-14.36.06:467][  0]Binding IntelliSense data...
+[2023.01.29-14.36.31:441][  0]Binding IntelliSense data... 50%
+[2023.01.29-14.36.31:542][  0]Binding IntelliSense data... 100%
+[2023.01.29-14.36.31:542][  0]Writing project files...
+[2023.01.29-14.36.56:899][  0]Writing project files... 67%
+[2023.01.29-14.36.56:899][  0]Writing project files... 100%
+[2023.01.29-14.36.57:974][  0]Candidate modules for hot reload:
+[2023.01.29-14.36.57:974][  0]  geometric_dash
+[2023.01.29-14.36.57:974][  0]Launching UnrealBuildTool... [C:/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=geometric_dash,6197 geometric_dashEditor Win64 Development -Project="C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/geometric_dash.uproject" "C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/geometric_dash.uproject"  -IgnoreJunk]
+[2023.01.29-14.41.50:619][  0]CompilerResultsLog: New page: Compilación - 29 ene. 2023 6:41:50
+[2023.01.29-14.41.50:619][  0]CompilerResultsLog: Creating makefile for geometric_dashEditor (no existing makefile)
+[2023.01.29-14.41.50:619][  0]CompilerResultsLog: Parsing headers for geometric_dashEditor
+[2023.01.29-14.41.50:620][  0]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Armando\source\repos\sis457\ARCANOID\geometric_dash\geometric_dash.uproject" "C:\Users\Armando\source\repos\sis457\ARCANOID\geometric_dash\Intermediate\Build\Win64\geometric_dashEditor\Development\geometric_dashEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Armando\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.01.29-14.41.50:620][  0]CompilerResultsLog: Reflection code generated for geometric_dashEditor in 57,8554717 seconds
+[2023.01.29-14.41.50:620][  0]CompilerResultsLog: Building geometric_dashEditor...
+[2023.01.29-14.41.50:620][  0]CompilerResultsLog: Using Visual Studio 2019 14.29.30147 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.01.29-14.41.50:620][  0]CompilerResultsLog: Building 6 actions with 4 processes...
+[2023.01.29-14.41.50:620][  0]CompilerResultsLog:   [1/6] generador_nivel.cpp
+[2023.01.29-14.41.50:620][  0]CompilerResultsLog:   [2/6] geometric_dash.init.gen.cpp
+[2023.01.29-14.41.50:620][  0]CompilerResultsLog:   [3/6] generador_nivel.gen.cpp
+[2023.01.29-14.41.50:620][  0]CompilerResultsLog:   [4/6] UE4Editor-geometric_dash-6197.lib
+[2023.01.29-14.41.50:620][  0]CompilerResultsLog:      Creando biblioteca C:\Users\Armando\source\repos\sis457\ARCANOID\geometric_dash\Intermediate\Build\Win64\UE4Editor\Development\geometric_dash\UE4Editor-geometric_dash-6197.lib y objeto C:\Users\Armando\source\repos\sis457\ARCANOID\geometric_dash\Intermediate\Build\Win64\UE4Editor\Development\geometric_dash\UE4Editor-geometric_dash-6197.exp
+[2023.01.29-14.41.50:620][  0]CompilerResultsLog:   [5/6] UE4Editor-geometric_dash-6197.dll
+[2023.01.29-14.41.50:620][  0]CompilerResultsLog:      Creando biblioteca C:\Users\Armando\source\repos\sis457\ARCANOID\geometric_dash\Intermediate\Build\Win64\UE4Editor\Development\geometric_dash\UE4Editor-geometric_dash-6197.suppressed.lib y objeto C:\Users\Armando\source\repos\sis457\ARCANOID\geometric_dash\Intermediate\Build\Win64\UE4Editor\Development\geometric_dash\UE4Editor-geometric_dash-6197.suppressed.exp
+[2023.01.29-14.41.50:651][  0]CompilerResultsLog:   [6/6] geometric_dashEditor.target
+[2023.01.29-14.41.50:651][  0]CompilerResultsLog: Total time in Parallel executor: 229,31 seconds
+[2023.01.29-14.41.50:651][  0]CompilerResultsLog: Total execution time: 291,95 seconds
+[2023.01.29-14.41.50:651][  0]LogMainFrame: MainFrame: Module compiling took 292.827 seconds
+[2023.01.29-14.41.50:987][  0]LogClass: Could not find existing class generador_nivel in package /Script/geometric_dash for HotReload, assuming new class
+[2023.01.29-14.41.51:016][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'geometric_dash' in 0.0005 seconds. Added 7 classes and 2 folders.
+[2023.01.29-14.41.51:022][  0]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.01.29-14.41.51:262][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0184 seconds. Added 3608 classes and 861 folders.
+[2023.01.29-14.41.51:262][  0]Display: HotReload took 294.1s.
+[2023.01.29-14.41.51:272][  0]Warning: HotReload operation took 294.2s.
+[2023.01.29-14.41.56:741][  0]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Source/geometric_dash/generador_nivel.h'
+[2023.01.29-14.41.57:267][  0]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.01.29-14.41.57:936][  0]LogHotReload: New module detected: UE4Editor-geometric_dash-6197.dll
+[2023.01.29-14.41.57:997][  1]LogHotReload: Starting Hot-Reload from IDE
+[2023.01.29-14.41.58:029][  1]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'geometric_dash' in 0.0004 seconds. Added 7 classes and 2 folders.
+[2023.01.29-14.41.58:039][  1]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.01.29-14.41.58:061][  1]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0130 seconds. Added 3608 classes and 861 folders.
+[2023.01.29-14.41.58:065][  1]Display: HotReload took  0.1s.
+[2023.01.29-14.48.13:049][118]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2023.01.29-14.48.13:049][118]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/mapas/mapas_1' took 0.209
+[2023.01.29-14.48.13:050][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/niveles/nivel_6_BP] ([1] browsable assets)...
+[2023.01.29-14.48.13:148][118]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/niveles/nivel_6_BP.nivel_6_BP]
+[2023.01.29-14.48.13:148][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/niveles/nivel_6_BP]
+[2023.01.29-14.48.13:161][118]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/nivel_6_BP_Auto9316FA81D435047995621F78536AE95B5.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Autosaves/Game/Blueprints/niveles/nivel_6_BP_Auto9.uasset'
+[2023.01.29-14.48.13:164][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/niveles/nivel_7_BP] ([1] browsable assets)...
+[2023.01.29-14.48.13:207][118]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/niveles/nivel_7_BP.nivel_7_BP]
+[2023.01.29-14.48.13:207][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/niveles/nivel_7_BP]
+[2023.01.29-14.48.13:219][118]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/nivel_7_BP_Auto9AD3C1D994707BB7844E21BA80F8AE602.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Autosaves/Game/Blueprints/niveles/nivel_7_BP_Auto9.uasset'
+[2023.01.29-14.48.13:221][118]LogFileHelpers: Auto-saving content packages took 0.172
+[2023.01.29-15.17.01:989][719]LogHotReload: New module detected: UE4Editor-geometric_dash-0025.dll
+[2023.01.29-15.17.03:344][724]LogHotReload: Starting Hot-Reload from IDE
+[2023.01.29-15.17.03:536][724]LogClass: Could not find existing class generador_nivel in package /Script/geometric_dash for HotReload, assuming new class
+[2023.01.29-15.17.03:537][724]LogClass: Function generar_nivel is new.
+[2023.01.29-15.17.03:537][724]LogClass: Function OnOverlapBegin is new.
+[2023.01.29-15.17.03:893][724]LogHotReload: Re-instancing generador_nivel after hot-reload.
+[2023.01.29-15.17.04:243][724]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'geometric_dash' in 0.0014 seconds. Added 7 classes and 2 folders.
+[2023.01.29-15.17.04:250][724]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.01.29-15.17.04:684][724]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0235 seconds. Added 3608 classes and 861 folders.
+[2023.01.29-15.17.04:692][724]Display: HotReload took  1.3s.
+[2023.01.29-15.31.08:240][230]LogHotReload: New module detected: UE4Editor-geometric_dash-0030.dll
+[2023.01.29-15.31.10:267][237]LogHotReload: Starting Hot-Reload from IDE
+[2023.01.29-15.31.10:341][237]LogClass: Could not find existing class generador_nivel in package /Script/geometric_dash for HotReload, assuming new class
+[2023.01.29-15.31.10:341][237]LogClass: Function generar_nivel is new.
+[2023.01.29-15.31.10:341][237]LogClass: Function OnOverlapBegin is new.
+[2023.01.29-15.31.10:373][237]LogHotReload: Re-instancing generador_nivel after hot-reload.
+[2023.01.29-15.31.10:459][237]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'geometric_dash' in 0.0004 seconds. Added 7 classes and 2 folders.
+[2023.01.29-15.31.10:467][237]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.01.29-15.31.10:838][237]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0360 seconds. Added 3608 classes and 861 folders.
+[2023.01.29-15.31.10:842][237]Display: HotReload took  0.6s.
+[2023.01.29-15.33.14:602][603]LogHotReload: New module detected: UE4Editor-geometric_dash-0031.dll
+[2023.01.29-15.33.16:644][610]LogHotReload: Starting Hot-Reload from IDE
+[2023.01.29-15.33.16:789][610]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'geometric_dash' in 0.0004 seconds. Added 7 classes and 2 folders.
+[2023.01.29-15.33.16:798][610]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.01.29-15.33.17:235][610]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0120 seconds. Added 3608 classes and 861 folders.
+[2023.01.29-15.33.17:239][610]Display: HotReload took  0.6s.
+[2023.01.29-15.33.35:076][984]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.29-15.33.53:477][984]LogSlate: Window 'Escoger clase padre' being destroyed
+[2023.01.29-15.33.53:487][984]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.29-15.33.53:605][984]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.29-15.34.09:102][268]LogContentBrowser: Attempting asset rename: NewBlueprint -> Generador_nivel_BPt
+[2023.01.29-15.34.09:125][268]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.29-15.34.14:357][324]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Generador_nivel_BPt.Generador_nivel_BPt
+[2023.01.29-15.34.20:591][459]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.29-15.34.57:333][659]BlueprintLog: New page: Compilar Generador_nivel_BPt
+[2023.01.29-15.34.57:882][659]LogUObjectHash: Compacting FUObjectHashTables data took  14.09ms
+[2023.01.29-15.34.57:894][659]BlueprintLog: New page: Compilar Generador_nivel_BPt
+[2023.01.29-15.34.58:301][659]LogUObjectHash: Compacting FUObjectHashTables data took  12.16ms
+[2023.01.29-15.34.58:425][662]BlueprintLog: New page: Compilar Generador_nivel_BPt
+[2023.01.29-15.34.58:625][662]LogUObjectHash: Compacting FUObjectHashTables data took   8.17ms
+[2023.01.29-15.35.02:374][832]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.29-15.35.02:443][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.29-15.35.02:445][832]PIE: New page: Sesión PIE (reproducción en el editor): mapas_1 (29 ene. 2023 7:35:02)
+[2023.01.29-15.35.02:458][832]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_mapas_1
+[2023.01.29-15.35.02:484][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027131s)
+[2023.01.29-15.35.02:504][832]LogAIModule: Creating AISystem for world mapas_1
+[2023.01.29-15.35.02:505][832]LogPlayLevel: PIE: World Init took: (0.020328s)
+[2023.01.29-15.35.02:505][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/mapas_1.mapas_1 to /Game/mapas/UEDPIE_0_mapas_1.mapas_1 (0.047853s)
+[2023.01.29-15.35.02:607][832]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2023.01.29-15.35.02:608][832]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.01.29-15.35.02:608][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.29-15.35.02:608][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.29-15.35.02:608][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.29-15.35.02:609][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.29-15.35.02:609][832]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.29-15.35.02:609][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.29-15.35.02:609][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.29-15.35.02:609][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.29-15.35.02:609][832]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.29-15.35.02:609][832]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.29-15.35.02:634][832]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.29-15.35.02:634][832]LogAudioMixer: Display: 1: FrontRight
+[2023.01.29-15.35.02:718][832]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2023.01.29-15.35.02:719][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.29-15.35.02:720][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.29-15.35.02:720][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.29-15.35.02:722][832]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.29-15.35.02:722][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.29-15.35.02:722][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.29-15.35.02:767][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.29-15.35.02:767][832]LogInit: FAudioDevice initialized.
+[2023.01.29-15.35.02:767][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.29-15.35.02:767][832]LogAudio: Display: Audio Device (ID: 3) registered with world 'mapas_1'.
+[2023.01.29-15.35.02:818][832]LogLoad: Game class is 'Mygeometric_dashGameMode_BP_C'
+[2023.01.29-15.35.02:865][832]LogWorld: Bringing World /Game/mapas/UEDPIE_0_mapas_1.mapas_1 up for play (max tick rate 60) at 2023.01.29-11.35.02
+[2023.01.29-15.35.02:865][832]LogWorld: Bringing up level for play took: 0.015881
+[2023.01.29-15.35.02:866][832]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.01.29-15.35.03:424][832]PIE: El servidor ha iniciado la sesión
+[2023.01.29-15.35.03:426][832]PIE: Play in editor total start time 1,038 seconds.
+[2023.01.29-15.35.14:467][444]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2023.01.29-15.35.16:070][489]LogEditorViewport: Clicking Background
+[2023.01.29-15.35.18:476][623]LogEditorViewport: Clicking Background
+[2023.01.29-15.35.18:587][628]LogEditorViewport: Clicking Background
+[2023.01.29-15.35.21:864][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2023.01.29-15.35.29:217][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-15.35.29:217][200]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_mapas_1
+[2023.01.29-15.35.29:218][200]LogWorld: UWorld::CleanupWorld for mapas_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.29-15.35.29:248][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-15.35.29:279][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.29-15.35.29:349][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-15.35.29:444][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.29-15.35.29:444][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.29-15.35.29:445][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.29-15.35.29:471][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-15.35.29:500][200]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2023.01.29-15.35.29:624][201]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.01.29-15.35.40:993][352]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.29-15.35.41:004][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.29-15.35.41:004][352]PIE: New page: Sesión PIE (reproducción en el editor): mapas_1 (29 ene. 2023 7:35:41)
+[2023.01.29-15.35.41:005][352]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_mapas_1
+[2023.01.29-15.35.41:008][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003174s)
+[2023.01.29-15.35.41:009][352]LogAIModule: Creating AISystem for world mapas_1
+[2023.01.29-15.35.41:010][352]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2023.01.29-15.35.41:010][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/mapas_1.mapas_1 to /Game/mapas/UEDPIE_0_mapas_1.mapas_1 (0.004895s)
+[2023.01.29-15.35.41:085][352]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2023.01.29-15.35.41:119][352]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.01.29-15.35.41:120][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.29-15.35.41:120][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.29-15.35.41:120][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.29-15.35.41:120][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.29-15.35.41:120][352]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.29-15.35.41:120][352]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.29-15.35.41:120][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.29-15.35.41:120][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.29-15.35.41:121][352]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.29-15.35.41:121][352]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.29-15.35.41:130][352]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.29-15.35.41:130][352]LogAudioMixer: Display: 1: FrontRight
+[2023.01.29-15.35.41:196][352]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2023.01.29-15.35.41:197][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.29-15.35.41:197][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.29-15.35.41:197][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.29-15.35.41:198][352]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.29-15.35.41:198][352]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.29-15.35.41:198][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.29-15.35.41:222][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.29-15.35.41:222][352]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.29-15.35.41:222][352]LogInit: FAudioDevice initialized.
+[2023.01.29-15.35.41:222][352]LogAudio: Display: Audio Device (ID: 4) registered with world 'mapas_1'.
+[2023.01.29-15.35.41:232][352]LogLoad: Game class is 'Mygeometric_dashGameMode_BP_C'
+[2023.01.29-15.35.41:232][352]LogWorld: Bringing World /Game/mapas/UEDPIE_0_mapas_1.mapas_1 up for play (max tick rate 60) at 2023.01.29-11.35.41
+[2023.01.29-15.35.41:233][352]LogWorld: Bringing up level for play took: 0.000504
+[2023.01.29-15.35.41:233][352]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.01.29-15.35.41:237][352]PIE: El servidor ha iniciado la sesión
+[2023.01.29-15.35.41:238][352]PIE: Play in editor total start time 0,234 seconds.
+[2023.01.29-15.35.55:425][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-15.35.55:425][169]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_mapas_1
+[2023.01.29-15.35.55:426][169]LogWorld: UWorld::CleanupWorld for mapas_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.29-15.35.55:426][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-15.35.55:438][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.29-15.35.55:462][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-15.35.55:541][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-15.35.55:542][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.29-15.35.55:543][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.29-15.35.55:573][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2023.01.29-15.35.55:610][170]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.01.29-15.36.07:544][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generador_nivel_BPt" FILE="../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/Blueprints/Generador_nivel_BPt.uasset" SILENT=true
+[2023.01.29-15.36.07:556][768]LogSavePackage: Moving '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Saved/Generador_nivel_BPtC3581B1F424EE251A6316FAE4AC286CC.tmp' to '../../../../Users/Armando/source/repos/sis457/ARCANOID/geometric_dash/Content/Blueprints/Generador_nivel_BPt.uasset'
+[2023.01.29-15.36.07:584][768]AssetCheck: New page: Asset Save: Generador_nivel_BPt
+[2023.01.29-15.36.07:584][768]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Generador_nivel_BPt.Generador_nivel_BPt
+[2023.01.29-15.36.24:323][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2023.01.29-15.37.09:060][678]LogHotReload: New module detected: UE4Editor-geometric_dash-0032.dll
+[2023.01.29-15.37.11:443][686]LogHotReload: Starting Hot-Reload from IDE
+[2023.01.29-15.37.11:604][686]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'geometric_dash' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2023.01.29-15.37.11:611][686]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.01.29-15.37.11:947][686]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0170 seconds. Added 3608 classes and 861 folders.
+[2023.01.29-15.37.11:951][686]Display: HotReload took  0.5s.
+[2023.01.29-15.37.17:685][825]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.29-15.37.17:695][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.29-15.37.17:695][825]PIE: New page: Sesión PIE (reproducción en el editor): mapas_1 (29 ene. 2023 7:37:17)
+[2023.01.29-15.37.17:695][825]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_mapas_1
+[2023.01.29-15.37.17:719][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004515s)
+[2023.01.29-15.37.17:723][825]LogAIModule: Creating AISystem for world mapas_1
+[2023.01.29-15.37.17:724][825]LogPlayLevel: PIE: World Init took: (0.004540s)
+[2023.01.29-15.37.17:724][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/mapas_1.mapas_1 to /Game/mapas/UEDPIE_0_mapas_1.mapas_1 (0.028693s)
+[2023.01.29-15.37.17:851][825]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2023.01.29-15.37.17:851][825]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.01.29-15.37.17:851][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.29-15.37.17:851][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.29-15.37.17:851][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.29-15.37.17:851][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.29-15.37.17:852][825]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.29-15.37.17:852][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.29-15.37.17:852][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.29-15.37.17:852][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.29-15.37.17:866][825]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.29-15.37.17:866][825]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.29-15.37.17:871][825]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.29-15.37.17:871][825]LogAudioMixer: Display: 1: FrontRight
+[2023.01.29-15.37.17:897][825]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2023.01.29-15.37.17:897][825]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.29-15.37.17:897][825]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.29-15.37.17:898][825]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.29-15.37.17:898][825]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.29-15.37.17:898][825]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.29-15.37.17:898][825]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.29-15.37.17:922][825]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.29-15.37.17:922][825]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.29-15.37.17:922][825]LogInit: FAudioDevice initialized.
+[2023.01.29-15.37.17:922][825]LogAudio: Display: Audio Device (ID: 5) registered with world 'mapas_1'.
+[2023.01.29-15.37.17:951][825]LogLoad: Game class is 'Mygeometric_dashGameMode_BP_C'
+[2023.01.29-15.37.17:952][825]LogWorld: Bringing World /Game/mapas/UEDPIE_0_mapas_1.mapas_1 up for play (max tick rate 60) at 2023.01.29-11.37.17
+[2023.01.29-15.37.17:952][825]LogWorld: Bringing up level for play took: 0.000912
+[2023.01.29-15.37.17:953][825]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2023.01.29-15.37.17:959][825]PIE: El servidor ha iniciado la sesión
+[2023.01.29-15.37.17:960][825]PIE: Play in editor total start time 0,268 seconds.
+[2023.01.29-15.37.30:125][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-15.37.30:125][520]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_mapas_1
+[2023.01.29-15.37.30:125][520]LogWorld: UWorld::CleanupWorld for mapas_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.29-15.37.30:126][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-15.37.30:135][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.29-15.37.30:159][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-15.37.30:232][520]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.29-15.37.30:233][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.29-15.37.30:234][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.29-15.37.30:262][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-15.37.30:272][520]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2023.01.29-15.37.30:310][521]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.01.29-15.40.16:981][486]LogHotReload: New module detected: UE4Editor-geometric_dash-0033.dll
+[2023.01.29-15.40.19:338][494]LogHotReload: Starting Hot-Reload from IDE
+[2023.01.29-15.40.19:475][494]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'geometric_dash' in 0.0005 seconds. Added 7 classes and 2 folders.
+[2023.01.29-15.40.19:485][494]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.01.29-15.40.19:875][494]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0159 seconds. Added 3608 classes and 861 folders.
+[2023.01.29-15.40.19:879][494]Display: HotReload took  0.5s.
+[2023.01.29-15.40.26:671][732]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.29-15.40.26:681][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.29-15.40.26:682][732]PIE: New page: Sesión PIE (reproducción en el editor): mapas_1 (29 ene. 2023 7:40:26)
+[2023.01.29-15.40.26:682][732]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_mapas_1
+[2023.01.29-15.40.26:684][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001840s)
+[2023.01.29-15.40.26:685][732]LogAIModule: Creating AISystem for world mapas_1
+[2023.01.29-15.40.26:685][732]LogPlayLevel: PIE: World Init took: (0.001630s)
+[2023.01.29-15.40.26:685][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/mapas_1.mapas_1 to /Game/mapas/UEDPIE_0_mapas_1.mapas_1 (0.003667s)
+[2023.01.29-15.40.26:837][732]LogUObjectHash: Compacting FUObjectHashTables data took   8.12ms
+[2023.01.29-15.40.26:838][732]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.01.29-15.40.26:839][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.29-15.40.26:839][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.29-15.40.26:839][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.29-15.40.26:839][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.29-15.40.26:839][732]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.29-15.40.26:839][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.29-15.40.26:839][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.29-15.40.26:839][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.29-15.40.26:839][732]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.29-15.40.26:839][732]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.29-15.40.26:841][732]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.29-15.40.26:841][732]LogAudioMixer: Display: 1: FrontRight
+[2023.01.29-15.40.26:860][732]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2023.01.29-15.40.26:861][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.29-15.40.26:861][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.29-15.40.26:861][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.29-15.40.26:862][732]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.29-15.40.26:862][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.29-15.40.26:862][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.29-15.40.26:893][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.29-15.40.26:893][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.29-15.40.26:893][732]LogInit: FAudioDevice initialized.
+[2023.01.29-15.40.26:893][732]LogAudio: Display: Audio Device (ID: 6) registered with world 'mapas_1'.
+[2023.01.29-15.40.26:905][732]LogLoad: Game class is 'Mygeometric_dashGameMode_BP_C'
+[2023.01.29-15.40.26:906][732]LogWorld: Bringing World /Game/mapas/UEDPIE_0_mapas_1.mapas_1 up for play (max tick rate 60) at 2023.01.29-11.40.26
+[2023.01.29-15.40.26:906][732]LogWorld: Bringing up level for play took: 0.000723
+[2023.01.29-15.40.26:906][732]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.01.29-15.40.26:911][732]PIE: El servidor ha iniciado la sesión
+[2023.01.29-15.40.26:912][732]PIE: Play in editor total start time 0,232 seconds.
+[2023.01.29-15.40.35:614][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-15.40.35:614][215]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_mapas_1
+[2023.01.29-15.40.35:615][215]LogWorld: UWorld::CleanupWorld for mapas_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.29-15.40.35:615][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-15.40.35:627][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.29-15.40.35:656][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-15.40.35:738][215]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.29-15.40.35:739][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.29-15.40.35:740][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.29-15.40.35:767][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-15.40.35:775][215]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2023.01.29-15.40.35:847][216]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.01.29-15.40.57:027][832]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.29-15.40.57:068][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.29-15.40.57:068][832]PIE: New page: Sesión PIE (reproducción en el editor): mapas_1 (29 ene. 2023 7:40:57)
+[2023.01.29-15.40.57:068][832]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_mapas_1
+[2023.01.29-15.40.57:074][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005906s)
+[2023.01.29-15.40.57:079][832]LogAIModule: Creating AISystem for world mapas_1
+[2023.01.29-15.40.57:080][832]LogPlayLevel: PIE: World Init took: (0.005426s)
+[2023.01.29-15.40.57:080][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/mapas_1.mapas_1 to /Game/mapas/UEDPIE_0_mapas_1.mapas_1 (0.011912s)
+[2023.01.29-15.40.57:181][832]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2023.01.29-15.40.57:185][832]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.01.29-15.40.57:185][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.29-15.40.57:185][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.29-15.40.57:185][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.29-15.40.57:185][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.29-15.40.57:185][832]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.29-15.40.57:185][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.29-15.40.57:185][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.29-15.40.57:185][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.29-15.40.57:186][832]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.29-15.40.57:186][832]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.29-15.40.57:188][832]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.29-15.40.57:188][832]LogAudioMixer: Display: 1: FrontRight
+[2023.01.29-15.40.57:208][832]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2023.01.29-15.40.57:208][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.29-15.40.57:209][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.29-15.40.57:209][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.29-15.40.57:209][832]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.29-15.40.57:209][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.29-15.40.57:209][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.29-15.40.57:232][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.29-15.40.57:232][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.29-15.40.57:232][832]LogInit: FAudioDevice initialized.
+[2023.01.29-15.40.57:232][832]LogAudio: Display: Audio Device (ID: 7) registered with world 'mapas_1'.
+[2023.01.29-15.40.57:240][832]LogLoad: Game class is 'Mygeometric_dashGameMode_BP_C'
+[2023.01.29-15.40.57:241][832]LogWorld: Bringing World /Game/mapas/UEDPIE_0_mapas_1.mapas_1 up for play (max tick rate 60) at 2023.01.29-11.40.57
+[2023.01.29-15.40.57:241][832]LogWorld: Bringing up level for play took: 0.000500
+[2023.01.29-15.40.57:241][832]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.01.29-15.40.57:247][832]PIE: El servidor ha iniciado la sesión
+[2023.01.29-15.40.57:248][832]PIE: Play in editor total start time 0,212 seconds.
+[2023.01.29-15.41.02:284][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-15.41.02:284][ 90]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_mapas_1
+[2023.01.29-15.41.02:284][ 90]LogWorld: UWorld::CleanupWorld for mapas_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.29-15.41.02:285][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-15.41.02:295][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.29-15.41.02:309][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.29-15.41.02:386][ 90]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.29-15.41.02:386][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.29-15.41.02:387][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.29-15.41.02:413][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.29-15.41.02:419][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2023.01.29-15.41.02:462][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.01.29-15.41.26:896][410]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.29-15.41.26:911][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.29-15.41.26:911][410]PIE: New page: Sesión PIE (reproducción en el editor): mapas_1 (29 ene. 2023 7:41:26)
+[2023.01.29-15.41.26:911][410]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_mapas_1
+[2023.01.29-15.41.26:914][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002183s)
+[2023.01.29-15.41.26:915][410]LogAIModule: Creating AISystem for world mapas_1
+[2023.01.29-15.41.26:915][410]LogPlayLevel: PIE: World Init took: (0.001362s)
+[2023.01.29-15.41.26:915][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/mapas_1.mapas_1 to /Game/mapas/UEDPIE_0_mapas_1.mapas_1 (0.003742s)
+[2023.01.29-15.41.27:003][410]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2023.01.29-15.41.27:006][410]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.01.29-15.41.27:007][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.29-15.41.27:007][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.29-15.41.27:007][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.29-15.41.27:007][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.29-15.41.27:007][410]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.29-15.41.27:007][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.29-15.41.27:007][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.29-15.41.27:007][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.29-15.41.27:007][410]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.29-15.41.27:007][410]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.29-15.41.27:010][410]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.29-15.41.27:010][410]LogAudioMixer: Display: 1: FrontRight
+[2023.01.29-15.41.27:031][410]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2023.01.29-15.41.27:032][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.29-15.41.27:032][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.29-15.41.27:032][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.29-15.41.27:032][410]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.29-15.41.27:033][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.29-15.41.27:033][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.29-15.41.27:056][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.29-15.41.27:056][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.29-15.41.27:056][410]LogInit: FAudioDevice initialized.
+[2023.01.29-15.41.27:056][410]LogAudio: Display: Audio Device (ID: 8) registered with world 'mapas_1'.
+[2023.01.29-15.41.27:066][410]LogLoad: Game class is 'Mygeometric_dashGameMode_BP_C'
+[2023.01.29-15.41.27:067][410]LogWorld: Bringing World /Game/mapas/UEDPIE_0_mapas_1.mapas_1 up for play (max tick rate 60) at 2023.01.29-11.41.27
+[2023.01.29-15.41.27:067][410]LogWorld: Bringing up level for play took: 0.000694
+[2023.01.29-15.41.27:067][410]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.01.29-15.41.27:103][410]PIE: El servidor ha iniciado la sesión
+[2023.01.29-15.41.27:107][410]PIE: Play in editor total start time 0,197 seconds.
